@@ -1,0 +1,9 @@
+To fix permission issue in npm
+    - sudo chown -R $(whoami) ~/.npm
+To upgrade nodejs & npm
+    - npm install -g n
+    - n lts
+    - npm install -g npm@latest
+To check version
+    - npm -v
+    - node -v

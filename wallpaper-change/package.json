@@ -1,0 +1,24 @@
+{
+  "name": "wallpaper-change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dom-parser": "^0.1.6",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^2.6.1",
+    "nvm": "^0.0.4",
+    "wallpaper": "^6.1.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.1.12"
+  },
+  "type": "commonjs"
+}
